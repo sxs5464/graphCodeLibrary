@@ -1,0 +1,1 @@
+This program requires the jgraphx library from jgraph.com see instructions in /lib/README
